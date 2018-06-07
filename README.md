@@ -5,7 +5,7 @@ GitBook 是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Ma
 需要了解git与markdown语法
 # gitbook使用
 1. 安装nodeJs 
-2. 安装gitbook gitbook cnpm install gitbook -g或者npm  install gitbook -g
+2. 安装gitbook,cnpm install gitbook -g或者npm install gitbook -g
 
 ## gitbook常用指令
 1. gitbook init 根据sumamry.md中的内容生成chapter内容
